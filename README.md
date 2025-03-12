@@ -4,7 +4,7 @@
 This project predicts the area of forest fires in Algeria using linear regression. The model is trained on the **Algerian Forest Fires Dataset** and deployed via Flask on Render.
 
 ## 🚀 Live Demo
-Check out the live app here: [Forest Fire Prediction](https://algeria-forest-fire-fj8i.onrender.com)
+Check out the live app here: [Forest Fire Prediction](https://algeria-forest-fire-fj8i.onrender.com/predictdata)
 
 ## 📊 Dataset
 - **Dataset:** Algerian Forest Fires Dataset
@@ -69,7 +69,7 @@ python app.py
 
 ## ✨ Deployment
 - **Platform:** Render
-- **Deployment link:** [Forest Fire Prediction App](https://algeria-forest-fire-fj8i.onrender.com)
+- **Deployment link:** [Forest Fire Prediction App](https://algeria-forest-fire-fj8i.onrender.com/predictdata)
 
 ## 📧 Contact
 For any questions or collaborations, feel free to reach out via LinkedIn or email.
